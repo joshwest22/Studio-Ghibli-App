@@ -1,0 +1,10 @@
+#filmList
+{
+    float: left;
+    overflow: auto;
+}
+#infoList
+{
+    float:right;
+    overflow: auto;
+}
